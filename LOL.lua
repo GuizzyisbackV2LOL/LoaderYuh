@@ -25,3 +25,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GuizzyisbackV2LOL/Bla
 elseif game.PlaceId == 16426795556 then -- 🎽 Track & Field: Infinite
 loadstring(game:HttpGet('https://raw.githubusercontent.com/GuizzyisbackV2LOL/Track-Field/main/free.lua'))("")
 end
+elseif game.PlaceId == 17623247829 then -- ⛏ Roblox: Mine_craft Beta 1.0
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GuizzyisbackV2LOL/minecraftv1/main/Fun.lua'))("")
+end
